@@ -43,7 +43,7 @@ router.post("/register", async (req: Request, res: Response) => {
     
 });
 
-router.post("/login", verifyToken, async (req: Request, res: Response) => {
+router.post("/login",  async (req: Request, res: Response) => {
     const {username, password } = req.body;
     try {
         const user: IUser = await UserModel.findOne({username});
