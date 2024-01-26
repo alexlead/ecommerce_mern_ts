@@ -3,7 +3,7 @@ import axios from "axios";
 
 import "./styles.css";
 import { Response } from 'express';
-import { UserErrors } from '../../errors';
+import { UserErrors } from '../../models/errors';
 import { useCookies } from 'react-cookie';
 import { useNavigate } from 'react-router-dom';
 

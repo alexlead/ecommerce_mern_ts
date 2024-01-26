@@ -15,8 +15,10 @@ export const verifyToken = ( req: Request, res: Response, next: NextFunction ) =
 
             next();
         })
+    } else {
+
+        return res.sendStatus(401);
     }
-    return res.sendStatus(401);
 };
 
 

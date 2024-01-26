@@ -4,105 +4,105 @@
         "description": "An apple mobile which is nothing like apple",
         "price": 549,
         "stockQuantity": 94,
-        "imageURL": "https://cdn.dummyjson.com/product-images/1/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
     },
     {
         "productName": "iPhone X",
         "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
         "price": 899,
         "stockQuantity": 34,
-        "imageURL": "https://cdn.dummyjson.com/product-images/2/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
     },
     {
         "productName": "Samsung Universe 9",
         "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
         "price": 1249,
         "stockQuantity": 36,
-        "imageURL": "https://cdn.dummyjson.com/product-images/3/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg"
     },
     {
         "productName": "OPPOF19",
         "description": "OPPO F19 is officially announced on April 2021.",
         "price": 280,
         "stockQuantity": 123,
-        "imageURL": "https://cdn.dummyjson.com/product-images/4/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
     },
     {
         "productName": "Huawei P30",
         "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
         "price": 499,
         "stockQuantity": 32,
-        "imageURL": "https://cdn.dummyjson.com/product-images/5/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg"
     },
     {
         "productName": "MacBook Pro",
         "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
         "price": 1749,
         "stockQuantity": 83,
-        "imageURL": "https://cdn.dummyjson.com/product-images/6/imageURL.png"
+        "imageURL": "https://cdn.dummyjson.com/product-images/6/thumbnail.png"
     },
     {
         "productName": "Samsung Galaxy Book",
         "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
         "price": 1499,
         "stockQuantity": 50,
-        "imageURL": "https://cdn.dummyjson.com/product-images/7/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
     },
     {
         "productName": "Microsoft Surface Laptop 4",
         "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
         "price": 1499,
         "stockQuantity": 68,
-        "imageURL": "https://cdn.dummyjson.com/product-images/8/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
     },
     {
         "productName": "Infinix INBOOK",
         "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
         "price": 1099,
         "stockQuantity": 96,
-        "imageURL": "https://cdn.dummyjson.com/product-images/9/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
     },
     {
         "productName": "HP Pavilion 15-DK1056WM",
         "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
         "price": 1099,
         "stockQuantity": 89,
-        "imageURL": "https://cdn.dummyjson.com/product-images/10/imageURL.jpeg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
     },
     {
         "productName": "perfume Oil",
         "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
         "price": 13,
         "stockQuantity": 65,
-        "imageURL": "https://cdn.dummyjson.com/product-images/11/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
     },
     {
         "productName": "Brown Perfume",
         "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
         "price": 40,
         "stockQuantity": 52,
-        "imageURL": "https://cdn.dummyjson.com/product-images/12/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
     },
     {
         "productName": "Fog Scent Xpressio Perfume",
         "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
         "price": 13,
         "stockQuantity": 61,
-        "imageURL": "https://cdn.dummyjson.com/product-images/13/imageURL.webp"
+        "imageURL": "https://cdn.dummyjson.com/product-images/13/thumbnail.webp"
     },
     {
         "productName": "Non-Alcoholic Concentrated Perfume Oil",
         "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
         "price": 120,
         "stockQuantity": 114,
-        "imageURL": "https://cdn.dummyjson.com/product-images/14/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/14/thumbnail.jpg"
     },
     {
         "productName": "Eau De Perfume Spray",
         "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
         "price": 30,
         "stockQuantity": 105,
-        "imageURL": "https://cdn.dummyjson.com/product-images/15/imageURL.jpg"
+        "imageURL": "https://cdn.dummyjson.com/product-images/15/thumbnail.jpg"
     }
 
 ]
