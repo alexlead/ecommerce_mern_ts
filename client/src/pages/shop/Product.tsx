@@ -1,6 +1,7 @@
 import React, { useContext } from 'react'
 import { IProduct } from '../../models/interfaces'
 import { IShopContext, ShopContext } from '../../context/shop-context';
+import './styles.css'
 
 interface Props {
   product: IProduct;
@@ -26,7 +27,7 @@ const Product = (props: Props) => {
           ${price}
         </p>
       </div>
-      <button className='add-to-cart-btn' onClick={()=>addToCart(_id)}>Add To Cart {countProduct > 0 && <p>{countProduct}</p>}</button>
+      <button className='add-to-cart-btn' onClick={()=>addToCart(_id)}>Add To Cart {countProduct > 0 && <>({countProduct})</>}</button>
       <div className="stock-quantity">
         {stockQuantity === 0 && <h2>Out of Stock</h2>}
       </div>
