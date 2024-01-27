@@ -31,7 +31,7 @@
     transition: 0.3s ease-in;
   }
   
-  .addToCartBttn {
+  .add-to-cart-btn {
     background-color: transparent;
     border: 2px solid rgb(19, 19, 19);
     min-width: 100px;
@@ -42,7 +42,7 @@
     border-radius: 15px;
   }
   
-  .addToCartBttn:hover {
+  .add-to-cart-btn:hover {
     background-color: rgb(19, 19, 19);
     color: white;
     cursor: pointer;
